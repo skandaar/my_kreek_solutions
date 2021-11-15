@@ -7,7 +7,7 @@
  ** the user is asked to enter a list of an even number 
  ** of integers terminated by -1 the user may enter space
  ** Author : skandaar
- ** Date : Nov 15 2021 (Imintanoute - Morocco)
+ ** Date : Nov 15 2021 (Morocco)
  */
 
 #include <stdio.h>
